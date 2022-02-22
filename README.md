@@ -1,5 +1,5 @@
 # NYCU_hw_CnnModel
-Pytorch 模型儲存
+Pytorch 模型
 
 
 # 儲存
@@ -9,7 +9,7 @@ torch.save(net, '310605008_CnnModel.pt')
 # 載入
 放入Test on held out data，net.eval()的前面
 
-!rm -rf NYCU_HW
+!rm -rf NYCU_hw_CnnModel
 
 !git clone https://github.com/Sheng310/NYCU_hw_CnnModel.git
 
